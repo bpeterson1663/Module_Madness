@@ -1,4 +1,9 @@
-# module_madness
+# Module_Madness
+
+This was an assignment I worked on with another individual at Prime Digital Academy. The purpose was to gain a better understanding of how Node.js and Express.js works by learning about Modules
+
+##Directions
+
 In this challenge, you will need to spin up a new project (much like we did in lecture).
 
 The first module will export a function that returns a random number after taking in a min and max value as arguments (hint: you can use random number functions from previous assignments). When you call this module, use '100' as your min, and '1000000' as your max.
